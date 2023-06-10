@@ -1,16 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
+void dfs() {
 
+}
 int main() {
 #ifndef tejas
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
 #endif
-	int t;
-	cin >> t;
-	for (int i = 0; i < t; i++) {
-
-
-	}
-	return 0;
+	int n; cin >> n;
+	cout << 10 * n;
 }
